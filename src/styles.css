@@ -4,17 +4,16 @@ font-family: 'Nothing You Could Do', cursive;
 font-family: 'Roboto Mono', monospace; */
 
 :root {
-  --branding-color:#4950BA;
+  --branding-color: #4950ba;
   --secondary-color: #eff1f7;
-  --heading-font-family:'Nothing You Could Do', cursive;
-  --default-font-family:
+  --heading-font-family: "Nothing You Could Do", cursive;
+  --default-font-family: ;
 }
 
 .hero {
   background-color: var(--secondary-color);
   text-align: center;
   padding: 160px 20px;
-  
 }
 
 h1 {
@@ -23,14 +22,14 @@ h1 {
   font-size: 56px;
 }
 
-.hero p{
-  font-size: 20px;
-  padding:10px
+p {
+  font-size: 25px;
+  padding: 10px;
 }
 
 .btn-branding {
   background-color: var(--branding-color);
   color: white;
-  padding:15px 30px;
+  padding: 15px 30px;
   border-radius: 5px;
 }
