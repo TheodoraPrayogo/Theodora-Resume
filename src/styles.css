@@ -4,14 +4,35 @@ font-family: 'Nothing You Could Do', cursive;
 font-family: 'Roboto Mono', monospace; */
 
 :root {
-  --branding-color: #4E3D50;
-  --secondary-color: #9EBCBE;
+  --branding-color: #4e3d50;
+  --secondary-color: #9ebcbe;
   --heading-font-family: "Nothing You Could Do", cursive;
   --default-font-family: ;
 }
 
-@media (max-width:900px) {
- 
+@media (max-width: 900px) {
+  /* About Page */
+  h2 {
+    text-align: center;
+  }
+
+  .edu-background {
+    padding: 0;
+    text-align: center;
+    font-size: 15px;
+  }
+
+  li {
+    list-style: none;
+  }
+
+  .point-education {
+    padding-bottom: 45px;
+  }
+
+  .list-training li {
+    padding-bottom: 45px;
+  }
 }
 
 .hero {
@@ -69,7 +90,7 @@ p {
 }
 
 .edu-background {
-  padding:30px 100px;
+  padding: 30px 100px;
 }
 
 ul {
