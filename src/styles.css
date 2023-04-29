@@ -104,6 +104,10 @@ ul {
 
 /* CONTACT PAGE */
 
+.vision {
+  padding: 100px;
+}
+
 .icon {
   font-size: 25px !important;
   line-height: 2;
