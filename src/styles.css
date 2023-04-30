@@ -132,6 +132,19 @@ ul {
 /* MY WORK EXPERIENCES */
 
 /* work on the image scale and text to be more elegant and prescise */
+.rounded {
+  max-width: 300px;
+  max-height: auto;
+  padding:0;
+}
+
+.title {
+  font-size: 25px;
+}
+
+.location {
+  font-size: 18px;
+}
 
 /* CONTACT PAGE */
 
