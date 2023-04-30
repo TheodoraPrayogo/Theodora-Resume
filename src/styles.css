@@ -167,3 +167,10 @@ ul {
   font-size: 20px;
   padding-left: 20px;
 }
+
+
+/* Gallery Page */
+img{
+  max-width: 500px;
+  padding:40px;
+}
