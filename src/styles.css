@@ -16,6 +16,17 @@ font-family: 'Roboto Mono', monospace; */
     text-align: center;
   }
 
+/*INDEX- Navigation Bar */
+
+.logo {
+  max-width:300px;
+}
+
+li{
+  display: inline;
+}
+
+/* Index- Content */
   .edu-background {
     padding: 0;
     text-align: center;
@@ -105,7 +116,7 @@ ul {
 /* CONTACT PAGE */
 
 .vision {
-  padding: 100px;
+  margin-left: 300px;
 }
 
 .icon {
