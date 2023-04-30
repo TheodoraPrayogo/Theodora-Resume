@@ -174,3 +174,7 @@ img {
   max-height: 500px;
   padding: 40px;
 }
+
+.container li {
+  list-style: none;
+}
