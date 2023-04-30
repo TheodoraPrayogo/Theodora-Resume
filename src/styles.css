@@ -135,7 +135,7 @@ ul {
 .rounded {
   max-width: 300px;
   max-height: auto;
-  padding:0;
+  padding: 0;
 }
 
 .title {
@@ -168,9 +168,9 @@ ul {
   padding-left: 20px;
 }
 
-
 /* Gallery Page */
-img{
+img {
   max-width: 500px;
-  padding:40px;
+  max-height: 500px;
+  padding: 40px;
 }
