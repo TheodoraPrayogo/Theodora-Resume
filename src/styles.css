@@ -68,7 +68,6 @@ nav li.active a {
 
 .menu ul {
   display: flex;
-  justify-content: space-between;
 }
 
 /* Hero */
@@ -172,9 +171,12 @@ ul {
 img {
   max-width: 500px;
   max-height: 500px;
-  padding: 40px;
 }
 
 .container li {
   list-style: none;
+}
+
+.container img {
+  padding:40px;
 }
