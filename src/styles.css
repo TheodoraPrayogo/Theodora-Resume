@@ -132,9 +132,9 @@ ul {
 
 /* work on the image scale and text to be more elegant and prescise */
 .rounded {
-  max-width: 300px;
-  max-height: auto;
-  padding: 0;
+  max-width: 400px;
+  max-height: 400px;
+  
 }
 
 .title {
@@ -176,3 +176,9 @@ img {
 .container li {
   list-style: none;
 }
+
+.container .picture {
+  padding: 20px;
+  max-width: 370px;
+}
+
