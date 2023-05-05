@@ -19,21 +19,30 @@ font-family: 'Roboto Mono', monospace; */
   /* Index- Content */
   .edu-background {
     padding: 0;
-    text-align: center;
+    text-align: left;
     font-size: 15px;
   }
 
   li {
-    list-style: none;
+    font-size: 17px;
+    padding:0;
   }
 
-  .point-education {
-    padding-bottom: 45px;
+  .container {
+    padding:0;
   }
+  
+  .point-education .list-training{ 
+    padding-bottom: 25px;
+    font-size: 17px;
+    
+  }
+  
+.content {
+  text-align: center;
+  padding:0;
+}
 
-  .list-training li {
-    padding-bottom: 45px;
-  }
 }
 
 /*INDEX- Navigation Bar */
@@ -126,6 +135,9 @@ p {
 ul {
   font-size: 20px;
   line-height: 2;
+}
+.bootcamp {
+  font-size: 20px;
 }
 
 /* MY WORK EXPERIENCES */
