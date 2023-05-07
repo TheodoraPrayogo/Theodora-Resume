@@ -50,6 +50,13 @@ font-family: 'Roboto Mono', monospace; */
   padding:0;
 }
 
+.container .picture {
+  max-width: 230px;
+  max-height: 230px;
+  display: block;
+  justify-content:left;
+}
+
 }
 
 /*INDEX- Navigation Bar */
