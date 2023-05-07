@@ -16,6 +16,14 @@ font-family: 'Roboto Mono', monospace; */
     text-align: center;
   }
 
+  .logo {
+    display: none;
+  }
+
+  .row .admin {
+   text-align: left !important;
+  }
+
   /* Index- Content */
   .edu-background {
     padding: 0;
